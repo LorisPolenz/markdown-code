@@ -8,3 +8,6 @@ Write Code in Markdown, intepreted as an actual programming language
 `-` to declare a variable
 
 etc...
+
+# Cool
+Das ist cool.
